@@ -93,5 +93,3 @@ Cada desafío tiene criterios específicos de evaluación. En general, evaluamos
 ### 🚀 ¡Comienza el Desafío!
 
 Selecciona un desafío y demuestra tus habilidades como Technical Lead. ¡Buena suerte! 👩‍💻👨‍💻
-
-> **Nota:** Si tienes dudas o necesitas aclaraciones, no dudes en crear un issue en este repositorio.

@@ -8,7 +8,7 @@
 
 ## 🎯 Desafíos Disponibles
 
-### 1. [Revisión y Mejoras de Código](/code-review)
+### 1. [Revisión y Mejoras de Código](code-review/README.md)
 - **Objetivo:** Identificar y mejorar problemas en un sistema de autenticación
 - **Tecnologías:** NestJS, Next.js
 - **Enfoque:** Code review, seguridad, mejores prácticas
@@ -18,7 +18,7 @@
   - Organización del código
   - Testing
 
-### 2. [Diseño de Sistema](/system-design)
+### 2. [Diseño de Sistema](system-design/README.md)
 - **Objetivo:** Diseñar la arquitectura de un sistema de cambio de divisas
 - **Enfoque:** Datos en tiempo real, escalabilidad, consistencia
 - **Áreas Clave:**
